@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+C:\Nicat\addition\vgtu\c++\oop\lab2\lab2\lab2.cpp(7,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab2.vcxproj -> C:\Nicat\addition\vgtu\c++\oop\lab2\x64\Debug\lab2.exe
